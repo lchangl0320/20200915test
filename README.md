@@ -1,6 +1,4 @@
 # 20200915test
-hello world
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
